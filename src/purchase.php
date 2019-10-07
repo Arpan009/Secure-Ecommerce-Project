@@ -4,8 +4,7 @@
 
 <?php
 #ARPAN SHARMA
-#UNT ID: 11252527
-#CSCE 5350 ASSIGNMENT 1
+
 
     /* Userids 1,2 and 3 already exist in the customers table for database 'as1472', they can be used*/
     
