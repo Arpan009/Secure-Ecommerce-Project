@@ -1,6 +1,5 @@
 <?php #ARPAN SHARMA
-#UNT ID: 11252527
-#CSCE 5350 ASSIGNMENT 1
+
 
 #The form
     ?>
